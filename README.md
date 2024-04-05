@@ -26,6 +26,7 @@ This assignment is a on the job ticket emulator for the horiseon website. This a
 
 ## Credits
 
+- https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://www.w3schools.com/css/css_selectors.asp
 - https://www.w3schools.com/html/html5_syntax.asp
