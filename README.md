@@ -17,6 +17,10 @@ This assignment is a on the job ticket emulator for the horiseon website. This a
 
 ![Alt text](images/Horiseon%20Optimized.gif)
 
+## Link
+
+https://nunezzdavid.github.io/horiseon-optimized/
+
 ## Tasks
 
 - HTML needs to have sematic style elements
