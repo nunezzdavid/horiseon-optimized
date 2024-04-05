@@ -14,7 +14,7 @@ This assignment is a on the job ticket emulator for the horiseon website. This a
 
 ## Mock-Up
 
-![Alt text](images/horiseon-mock-up)
+![Alt text](images/Horiseon%20Optimized.gif)
 
 ## Tasks
 
