@@ -11,6 +11,7 @@ This assignment is a on the job ticket emulator for the horiseon website. This a
 - README.md File
 - index.html file
 - style.css file
+- images folder
 
 ## Mock-Up
 
